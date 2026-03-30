@@ -21,3 +21,9 @@ I recommend changing Complex Mode to False. This will bring the tool back to the
 -Added chance for evil tile
 -Cleaned up some tiles
 -Cleaned up some backgrounds
+
+## Todo
+-Title improvements
+-Add reverses on extras
+-Auto generate empty folders
+-Re-explore enhanced mode of toggling some features on and off
